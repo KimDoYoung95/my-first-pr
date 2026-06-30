@@ -5,7 +5,7 @@ A simple Python calculator project.
 ## Features
 
 - Add two numbers
-- Subtrat two numbers
+- Subtract two numbers
 - Multiply two numbers
 - Divide two numbers
 
@@ -20,6 +20,6 @@ print(multiply(3, 4))  # 12
 print(divide(10, 2))   # 5.0
 ```
 
-## Requirments
+## Requirements
 
 - Python 3.8+
